@@ -9,7 +9,7 @@ for(let i=0;i<=num;i++){
 }
 }
     if(count===1){
-     console.log(It ia a prime);
+     console.log("It ia a prime");
   }else{
     console.log("It is not a prime");
    }
